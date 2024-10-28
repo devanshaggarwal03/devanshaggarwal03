@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **ML project**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **AI-ML**
 
 - 💬 Ask me about **React.js, JavaScript, Java**
 
