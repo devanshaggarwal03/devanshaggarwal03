@@ -24,7 +24,8 @@
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="Share Badge.png" width="100px" height="100px" />
+  <img src="Git Explorer.jpeg" width="100px" height="100px" />
+  <img src="Share Badge.png" width="100px" height="100px" />
   <img src="Share Badge (1).png" width="100px" height="100px" />
   <img src="Share Badge (2).png" width="100px" height="100px" />
   <img src="Share Badge (3).png" width="100px" height="100px" />
